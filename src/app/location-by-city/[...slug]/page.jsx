@@ -13,8 +13,7 @@ import ExploreLocalitiesOfCities from "@/components/locationCityWise/ExploreLoca
 import HotspotOfCities from "@/components/locationCityWise/HotspotOfCity";
 import TopPropertyOfCity from "@/components/locationCityWise/TopPropertyOfCity";
 import InterestingReads from "@/components/exploreLocality/ViewAllComponents/InterestingReads";
-import Faq from "@/components/LocationCityWise/FNQ";
-
+import Faq from "../../../components/locationCityWise/Faq";
 const LocationByCity = () => {
   const [state, city] = useParams().slug;
 
