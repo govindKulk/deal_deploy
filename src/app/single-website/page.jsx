@@ -1,3 +1,5 @@
+"use client"
+
 import HeroSection from '@/components/single-website/HeroSection'
 import WelcomeSection from '@/components/single-website/WelcomeSection'
 import React from 'react'
